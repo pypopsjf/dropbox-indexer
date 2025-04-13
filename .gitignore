@@ -1,0 +1,6 @@
+.env
+venv/
+test_result.txt
+__pycache__/
+*.py[cod]
+*$py.classgit
